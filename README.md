@@ -66,19 +66,4 @@ If you are on Windows and just want to run the app without installing Python, yo
 
 > **⚠️ Note on Windows Defender (SmartScreen):** > Because this is a free, open-source tool built with PyInstaller, Windows will likely show a blue "Windows protected your PC" warning. This is completely normal for unsigned executable files. Simply click **"More info"** and then **"Run anyway"**.
 
----
 
-## 💻 For Developers (Running from Source)
-
-To run the raw Python script (required for Mac/Linux users):
-
-```bash
-# Clone the repository
-git clone [https://github.com/TonyLoWaiYau/Economic-Data-Summarizer.git](https://github.com/TonyLoWaiYau/Economic-Data-Summarizer.git)
-cd Economic-Data-Summarizer
-
-# Install dependencies
-pip install pandas customtkinter openai openpyxl tabulate xlrd
-
-# Run the app
-python economic_data_summarizer.py
