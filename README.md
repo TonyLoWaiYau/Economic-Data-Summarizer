@@ -38,7 +38,7 @@ I built this because writing “standardized” data blurbs is repetitive: every
 
 ## Screenshot of the app (example)
 
-<img width="1268" height="736" alt="example" src="https://github.com/user-attachments/assets/252d8a42-04a9-49f7-9fd6-1a1879a5b2d1" />
+<img width="1268" height="735" alt="example" src="https://github.com/user-attachments/assets/3bf8691d-381f-42a8-a2a5-35783d9243b1" />
 
 ---
 
