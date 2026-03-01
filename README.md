@@ -1,4 +1,4 @@
-# Economic Data Summarizer (Desktop App) — CustomTkinter + Pandas + OpenAI Responses API
+# Economic Data Summarizer (Desktop App) 
 
 A native-style Windows desktop app that helps macroeconomists and macro researchers **automate standardized economic data paragraphs** for reports/articles.
 
