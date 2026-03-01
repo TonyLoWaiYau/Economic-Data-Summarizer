@@ -1,6 +1,6 @@
 # Economic Data Summarizer (AI Workflow) 
 
-A native-style Windows desktop app that helps economists and macro researchers **automate standardized economic data paragraphs** for reports/articles.
+An AI workflow that helps economists and macro researchers **automate standardized economic data paragraphs** for reports/articles.
 
 I built this because writing “standardized” data blurbs is repetitive: every release cycle you’re updating the same paragraph structure with new readings. This app lets you **upload an Excel sheet** plus an **older paragraph as an example**, then uses a **two-step LLM pipeline** to extract facts and produce a fresh paragraph in the same style.
 
