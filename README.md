@@ -87,5 +87,12 @@ This is designed for real-world macro workflows where your “standard paragraph
 
 ---
 
-## Installation
+## Installation & Usage (For Non-Coders)
 
+If you are on Windows and just want to run the app without installing Python, you can download the standalone executable.
+
+1. Go to the **[Releases]([https://github.com/TonyLoWaiYau/Economic-Data-Summarizer/releases/tag/v1.0.0)** page on the right side of this repository.
+2. Download the latest `EconomicDataSummarizer.exe` file.
+3. Double-click the file to run it. 
+
+> **⚠️ Note on Windows Defender (SmartScreen):** > Because this is a free, open-source tool built with PyInstaller, Windows may show a blue "Windows protected your PC" warning. This is normal for unsigned executable files. Simply click **"More info"** and then **"Run anyway"**.
